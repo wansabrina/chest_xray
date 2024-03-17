@@ -1,1 +1,1 @@
-# xray_image_generator
+# Chest X-ray Image Generator using GAN
